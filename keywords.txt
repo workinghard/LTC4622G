@@ -6,13 +6,13 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-LTC4622G	 KEYWORD1
+LTC4622G	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-update	 KEYWORD2
+update	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
